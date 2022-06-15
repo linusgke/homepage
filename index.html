@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>Linus / elektronisch.dev</title>
+    <meta name="viewport" content="initial-scale=1"/>
+    <meta name="description" content="Yet another computer enthusiast"/>
+    <meta property="og:url" content="https://elektronisch.dev/"/>
+    <meta property="og:title" content="Linus / elektr0nisch"/>
+    <meta property="og:description" content="Yet another computer enthusiast"/>
+    <meta property="og:image" content="https://elektronisch.dev/assets/logo.png"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:locale" content="de_DE"/>
+
+    <meta property="twitter:card" content="summary"/>
+    <meta property="twitter:site" content="@elektr0nisch"/>
+    <meta property="twitter:creator" content="@elektr0nisch"/>
+
+    <link rel="shortcut icon" type="image/webp" href="assets/logo.webp"/>
+
+    <style>
+        @font-face {
+            font-family: "Jost";
+            src: url("assets/jost-400.woff2") format("woff2");
+            font-weight: 400;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: "Jost";
+            src: url("assets/jost-700.woff2") format("woff2");
+            font-weight: 700;
+            font-display: swap;
+        }
+
+        body {
+            font-family: Jost, sans-serif;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 1em;
+            max-width: 45em;
+            line-height: 1.5em;
+            color: #171717;
+            font-size: large;
+        }
+
+        h1 {
+            background-color: #96ffb9;
+            text-align: center;
+            font-weight: bold;
+            font-size: 2em;
+            line-height: 1.2em;
+            padding: 0.3em;
+        }
+
+        h2 {
+            background-color: #1b7340;
+            color: white;
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.5em;
+            line-height: 1.2em;
+            padding: 0.3em;
+            margin-top: 1em;
+        }
+
+        h3 {
+            margin: 0;
+            padding-left: 0.5em;
+        }
+
+        footer,
+        footer a {
+            color: gray;
+            text-align: center;
+        }
+
+        hr {
+            visibility: hidden;
+        }
+
+        p {
+            padding-left: 0.5em;
+            padding-right: 0.5em;
+        }
+
+        input {
+            opacity: 0;
+            position: absolute;
+        }
+
+        th,
+        td {
+            vertical-align: top;
+        }
+
+        a:not([class]) {
+            text-decoration: none;
+            background-image: linear-gradient(#eeebee 0%, #eeebee 100%);
+            background-repeat: repeat-x;
+            background-position: 0 100%;
+            background-size: 1px 1px;
+        }
+
+        a:not([class]):hover {
+            background-image: linear-gradient(rgba(114, 83, 237, 0.45) 0%, rgba(114, 83, 237, 0.45) 100%);
+            background-size: 1px 1px;
+        }
+
+        .box {
+            position: relative;
+            display: inline-table;
+            height: 4em;
+            width: 100%;
+            line-height: 2em;
+            text-align: center;
+            vertical-align: middle;
+            margin-bottom: 0.5em;
+        }
+    </style>
+</head>
+
+<body>
+<div style="text-align: center;">
+    <img src="assets/logo.webp" width="640" height="640" alt=""
+         style="width: 30%; height: auto; border-radius: 50%;"/>
+</div>
+<h1>Ich bin Linus!</h1>
+<p>
+    Herzlich willkommen auf meiner bescheidenen Internetpr&auml;senz!
+</p>
+<h2>Projekte</h2>
+
+<div class="box" style="background-color: orange;">
+    <p>
+        <b><a href="https://paywall.elektronisch.dev">AntiPaywall</a></b> <br/>
+        <span>Schluss mit Bezahlschranken!</span>
+    </p>
+</div>
+
+<div class="box" style="background-color: red;">
+    <p>
+        <b><a href="https://devicekeeper.de">DeviceKeeper.de</a></b> <br/>
+        <span>Yet another device management system!</span>
+    </p>
+</div>
+
+<h2>Kontakt</h2>
+<p>
+    <b>E-Mail:</b> <a href="javascript:decryptMail('Y29udGFjdEBlbGVrdHJvbmlzY2guZGV2')">klick mich!</a><br/>
+    <b>Matrix:</b> <a href="https://matrix.to/#/@elektr0nisch:matrix.org">@elektr0nisch:matrix.org</a> <br/>
+    <b>Threema:</b> <a href="https://threema.id/WMU9B4KH">WMU9B4KH</a> <br/>
+</p>
+<footer>
+    <p>&copy; elektronisch.dev - Alle Rechte vorbehalten.</p>
+</footer>
+
+<script>
+    function decryptMail(encoded) {
+        const address = atob(encoded);
+        window.location.href = 'mailto:' + address;
+    }
+</script>
+</body>
+</html>
