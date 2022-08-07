@@ -86,11 +86,16 @@ label {
         text-align: left;
         margin-left: 2em;
         padding-right: 2em;
-        transition: transform 0.5s;
+        animation: fadeIn 0.5s;
     }
+}
 
-    input:checked ~ label:after {
-        transform: rotate(90deg);
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
     }
 }
 

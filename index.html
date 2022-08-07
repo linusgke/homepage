@@ -23,7 +23,7 @@
 <div id="fullsize" onclick="this.style.display='none';"></div>
 
 <div style="text-align: center;">
-    <img src="assets/img/logo.webp" width="150" height="150" alt="Logo" style="border-radius: 50%"/>
+    <img src="assets/img/logo.webp" width="200" height="200" alt="Logo" style="border-radius: 50%"/>
 </div>
 <h1>Ich bin Linus!</h1>
 <p>
@@ -50,10 +50,9 @@
                 kann.<br/>
                 Derzeit steht das Projekt noch ganz am Anfang. Da ich daran aktuell auch nicht mit Hochdruck
                 arbeite, kann es auch noch ein wenig dauern, bis ich erste Ergebnisse erziele.<br/><br/>
-                Um auf dem Laufenden zu bleiben, folge gerne unserer GitHub-Organisation:<br/>
+                Um auf dem Laufenden zu bleiben, folge gerne unserer <a href="https://github.com/DevicezApp"
+                                                                        target="_blank">GitHub-Organisation</a>.
             </p>
-            <div class="github-card" data-github="DevicezApp" data-width="400" data-height=""
-                 data-theme="default"></div>
         </div>
     </li>
     <li class="box" style="background-color: dodgerblue;">
@@ -68,7 +67,8 @@
         </label>
         <div class="abstract">
             <p>
-                <img src="/assets/img/fwa.webp" width="675" height="153" alt="Freie Waldorfschule Augsburg Logo"/><br/>
+                <img src="/assets/img/fwa.webp" width="1400" height="319" style="height: 70%; width: 70%"
+                     alt="Freie Waldorfschule Augsburg Logo"/><br/>
                 Im November 2020, inmitten der Corona-Pandemie, formierte sich an meiner Schule ein dreiköpfiges
                 Schüler-Team, dass in den nächsten Monaten unglaubliche Arbeit leistete, um dann ab dem 1. Januar 2021
                 stundenplanmäßigen Online-Unterricht anbieten zu können.<br/>
@@ -123,7 +123,7 @@
                 konzentrieren müssen und daher wahrscheinlich kaum noch Zeit finden werden, um technische Hilfe zu
                 leisten. Die zweijährige Ära der drei <em>Technik-Schüler</em> endet!<br/><br/>
 
-                <img class="fullscreen" src="/assets/img/fwa/verabschiedung_2022.webp" width="966" height="898"
+                <img class="fullscreen" src="/assets/img/fwa/verabschiedung_2022.webp" width="1800" height="1200"
                      style="height: 50%; width: 50%"
                      alt="Offizielle Verabschiedung der drei Technik-Schüler bei Mitarbeiteressen am 28.07.2022 (V.l.n.r. Geschäftsführer Alexander Mattheus, Sebastian Mach, Tim Zolleis, Linus Groschke)"/><br/><br/>
 
@@ -222,7 +222,6 @@
     </p>
 </footer>
 
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         const modal = document.getElementById('imageModal');
@@ -238,7 +237,7 @@
             });
         });
 
-        let closeSpan = document.getElementById('close');
+        const closeSpan = document.getElementById('close');
         closeSpan.onclick = function () {
             modal.style.display = 'none';
         }
