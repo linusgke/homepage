@@ -256,15 +256,15 @@
 <div style="text-align: center;">
     <p>
         <a class="badge" style="margin-right: 20px" href="https://paypal.me/elektr0nisch">
-            <img src="https://img.shields.io/badge/paypal-spenden-green.svg?logo=paypal&style=for-the-badge"
+            <img src="https://img.shields.io/badge/paypal-donate-green.svg?logo=paypal&style=for-the-badge"
                  alt="PayPal"/>
         </a>
         <a class="badge" style="margin-right: 20px" href="https://buymeacoffee.com/elektr0nisch">
-            <img src="https://img.shields.io/badge/☕ buymeacoffee-spenden-green.svg?style=for-the-badge"
+            <img src="https://img.shields.io/badge/☕ buymeacoffee-donate-green.svg?style=for-the-badge"
                  alt="buy me a coffee"/>
         </a>
         <a class="badge" style="margin-right: 20px" href="https://ko-fi.com/elektr0nisch">
-            <img src="https://img.shields.io/badge/☕ ko--fi-spenden-green.svg?style=for-the-badge"
+            <img src="https://img.shields.io/badge/☕ ko--fi-donate-green.svg?style=for-the-badge"
                  alt="KoFi"/>
         </a>
     </p>
