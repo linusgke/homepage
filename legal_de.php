@@ -76,6 +76,8 @@
 <ul>
     <li><a href="https://www.flaticon.com/free-icons/united-kingdom" title="united kingdom icons">United kingdom icons
             created by Freepik - Flaticon</a></li>
+    <li><a href="https://www.flaticon.com/free-icons/germany" title="germany icons">Germany icons created by Freepik -
+            Flaticon</a></li>
 </ul>
 
 <footer>
