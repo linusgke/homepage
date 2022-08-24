@@ -23,6 +23,7 @@
 </head>
 
 <body>
+<p><?php include_once 'language.php' ?></p>
 <h1>Impressum</h1>
 
 <p><a href="/">&larr; Zurück zur Startseite</a></p>
@@ -69,6 +70,13 @@
     ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die
     Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
     Werbeinformationen, etwa durch Spam-Mails, vor.</p>
+
+<h2>Bildnachweis</h2>
+
+<ul>
+    <li><a href="https://www.flaticon.com/free-icons/united-kingdom" title="united kingdom icons">United kingdom icons
+            created by Freepik - Flaticon</a></li>
+</ul>
 
 <footer>
     <p>&copy; elektronisch.dev - Alle Rechte vorbehalten.<br/>

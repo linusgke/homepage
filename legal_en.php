@@ -23,9 +23,10 @@
 </head>
 
 <body>
+<p><?php include_once 'language.php' ?></p>
 <h1>Legal Notice</h1>
 
-<p><a href="/">&larr; Back</a></p>
+<p><a href="/">&larr; Back to the homepage</a></p>
 
 <h2>Information in accordance with<br/> § 5 of the German Telemedia Act (TMG)</h2>
 <p>Linus Groschke<br/>
@@ -71,6 +72,13 @@
     hereby expressly prohibited. The operators of the pages expressly reserve the right to take legal action in the
     event of the unsolicited sending of advertising information, such as spam e-mails.
 </p>
+
+<h2>Image credits</h2>
+
+<ul>
+    <li><a href="https://www.flaticon.com/free-icons/united-kingdom" title="united kingdom icons">United kingdom icons
+            created by Freepik - Flaticon</a></li>
+</ul>
 
 <footer>
     <p>&copy; elektronisch.dev - All rights reserved.<br/>
