@@ -141,6 +141,7 @@ a:not(.badge):hover {
 
 .fullscreen:hover {
     opacity: 0.7;
+    cursor: pointer;
 }
 
 .modal {
