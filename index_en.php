@@ -66,7 +66,7 @@
             <b><a href="https://waldorf-augsburg.de" target="_blank">Freie Waldorfschule Augsburg</a></b> <br/>
             <span>Volunteer IT work at my school</span> <br/>
             <small>
-                since November 2020<br/>
+                November 2020 - September 2022<br/>
                 <a>Show more</a>
             </small>
         </label>

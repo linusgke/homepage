@@ -66,7 +66,7 @@
             <b><a href="https://waldorf-augsburg.de" target="_blank">Freie Waldorfschule Augsburg</a></b> <br/>
             <span>Ehrenamtliches IT-Engagement an meiner Schule</span> <br/>
             <small>
-                seit November 2020<br/>
+                November 2020 - September 2022<br/>
                 <a>Mehr anzeigen</a>
             </small>
         </label>
