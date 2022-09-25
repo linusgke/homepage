@@ -30,7 +30,7 @@
 </div>
 <h1>Ich bin Linus!</h1>
 <p style="background-color: gray; border-radius: 10px; text-shadow: 0 0 5px rgba(0,0,0,1);">
-    Linus Groschke, *2003, lebt in Augsburg. Dort besucht er aktuell die zwölfte Klasse der Freien Waldorfschule
+    Linus Groschke, *2003, lebt in Augsburg. Dort besucht er aktuell die dreizehnte Klasse der Freien Waldorfschule
     Augsburg. Er ist technisch sehr interessiert und engagiert sich als Hobby-Programmierer. Bei Fridays For Future und
     im Klimacamp Augsburg ist er politisch aktiv.
 </p>

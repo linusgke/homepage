@@ -30,7 +30,7 @@
 </div>
 <h1>I'm Linus!</h1>
 <p style="background-color: gray; border-radius: 10px; text-shadow: 0 0 5px rgba(0,0,0,1);">
-    Linus Groschke, *2003, lives in Augsburg, Germany. He currently attends the twelfth grade at the Freie Waldorfschule
+    Linus Groschke, *2003, lives in Augsburg, Germany. He currently attends the thirteenth grade at the Freie Waldorfschule
     Augsburg. He is very interested in technology and is passionate about programming. He is politically active for
     Fridays For Future and the Climate Camp Augsburg.
 </p>
