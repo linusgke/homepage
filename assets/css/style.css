@@ -223,3 +223,38 @@ a:not(.badge):hover {
         width: 100%;
     }
 }
+
+.language {
+    margin-right: 10px;
+    float: right
+}
+
+.text-center {
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: gray;
+    border-radius: 10px;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 1);
+}
+
+.logo {
+    border-radius: 50%;
+}
+
+.red {
+    background-color: indianred;
+}
+
+.green {
+    background-color: #549670;
+}
+
+.orange {
+    background-color: darkorange;
+}
+
+.blue {
+    background-color: dodgerblue;
+}

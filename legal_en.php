@@ -6,6 +6,7 @@
     <meta name="viewport" content="initial-scale=1"/>
     <meta name="description" content="Yet another computer enthusiast"/>
     <meta name="robots" content="noindex">
+    <meta name="referrer" content="no-referrer">
 
     <meta property="og:url" content="https://elektronisch.dev/"/>
     <meta property="og:title" content="Impressum – elektronisch.dev"/>

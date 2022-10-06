@@ -5,6 +5,7 @@
     <title>Homepage – elektronisch.dev</title>
     <meta name="viewport" content="initial-scale=1"/>
     <meta name="description" content="Yet another computer enthusiast"/>
+    <meta name="referrer" content="no-referrer">
 
     <meta property="og:url" content="https://elektronisch.dev/"/>
     <meta property="og:title" content="Startseite – elektronisch.dev"/>
@@ -25,19 +26,20 @@
 <p><?php include_once 'language.php' ?></p>
 <div id="fullsize" onclick="this.style.display='none';"></div>
 
-<div style="text-align: center;">
-    <img src="assets/img/logo.webp" width="200" height="200" alt="Logo" style="border-radius: 50%">
+<div class="text-center">
+    <img class="logo" src="assets/img/logo.webp" width="200" height="200" alt="Logo">
 </div>
 <h1>I'm Linus!</h1>
-<p style="background-color: gray; border-radius: 10px; text-shadow: 0 0 5px rgba(0,0,0,1);">
-    Linus Groschke, *2003, lives in Augsburg, Germany. He currently attends the thirteenth grade at the Freie Waldorfschule
+<p class="jumbotron">
+    Linus Groschke, *2003, lives in Augsburg, Germany. He currently attends the thirteenth grade at the Freie
+    Waldorfschule
     Augsburg. He is very interested in technology and is passionate about programming. He is politically active for
     Fridays For Future and the Climate Camp Augsburg.
 </p>
 <h2>IT projects</h2>
 
 <ul>
-    <li class="box" style="background-color: indianred;">
+    <li class="box red">
         <input type="checkbox" id="devicez">
         <label for="devicez">
             <b><a href="https://devicez.de" target="_blank">Devicez</a></b> <br/>
@@ -60,7 +62,7 @@
             </p>
         </div>
     </li>
-    <li class="box" style="background-color: dodgerblue;">
+    <li class="box blue">
         <input type="checkbox" id="fwa">
         <label for="fwa">
             <b><a href="https://waldorf-augsburg.de" target="_blank">Freie Waldorfschule Augsburg</a></b> <br/>
@@ -136,7 +138,7 @@
             </p>
         </div>
     </li>
-    <li class="box" style="background-color: darkorange;">
+    <li class="box orange">
         <input type="checkbox" id="cytooxien">
         <label for="cytooxien">
             <b><a href="https://cytooxien.de" target="_blank">Cytooxien</a></b> <br/>
@@ -155,7 +157,8 @@
                 in various game modes such as <em>Bedwars, Mario Party or SkyBlock</em>.<br/><br/><br/><br/>
 
                 There, I mainly developed the game interface (Game API) called <em>Strider</em>, which as a basic
-                implementation took over some general tasks such as team distribution. Besides these basic tasks, Strider
+                implementation took over some general tasks such as team distribution. Besides these basic tasks,
+                Strider
                 allows, among other things, to run multiple independent game rounds on the same Minecraft server, which
                 meant a significant resource relief, increased the total capacity of simultaneous rounds and allowed
                 unprecedented flexibility.<br/><br/>
@@ -170,7 +173,7 @@
 <h2>Political commitment</h2>
 
 <ul>
-    <li class="box" style="background-color: #549670;">
+    <li class="box green">
         <input type="checkbox" id="fff">
         <label for="fff">
             <b><a href="https://fff-augsburg.de" target="_blank">Fridays For Future Augsburg</a></b> <br/>
@@ -192,7 +195,7 @@
             </p>
         </div>
     </li>
-    <li class="box" style="background-color: #549670;">
+    <li class="box green">
         <input type="checkbox" id="klimacamp">
         <label for="klimacamp">
             <b><a href="https://www.klimacamp-augsburg.de" target="_blank">Climate Camp Augsburg</a></b> <br/>
@@ -228,44 +231,36 @@
 </ul>
 
 <h2>Contact</h2>
-<div style="text-align: center;">
+<div class="text-center">
     <a class="badge" style="margin-right: 20px" href="javascript:decodeMail('Y29udGFjdEBlbGVrdHJvbmlzY2guZGV2')">
-        <img src="https://img.shields.io/badge/✉ e--mail-gray.svg?style=for-the-badge"
-             alt="E-Mail">
+        <img src="/assets/img/shields/mail.svg" alt="E-Mail">
     </a>
     <a class="badge" style="margin-right: 20px" href="https://threema.id/WMU9B4KH">
-        <img src="https://img.shields.io/badge/threema-darkblue.svg?logo=threema&style=for-the-badge"
-             alt="Threema">
+        <img src="/assets/img/shields/threema.svg" alt="Threema">
     </a>
     <a class="badge" style="margin-right: 20px" href="https://matrix.to/#/@elektr0nisch:matrix.org">
-        <img src="https://img.shields.io/badge/matrix-black.svg?logo=matrix&style=for-the-badge"
-             alt="Matrix">
+        <img src="/assets/img/shields/matrix.svg" alt="Matrix">
     </a>
     <br>
     <a class="badge" style="margin-right: 20px" href="https://twitter.com/elektr0nisch">
-        <img src="https://img.shields.io/badge/twitter-elektr0nisch-blue.svg?logo=twitter&style=for-the-badge"
-             alt="Twitter">
+        <img src="/assets/img/shields/twitter.svg" alt="Twitter">
     </a>
     <a class="badge" style="margin-right: 20px" href="https://instagram.com/elektr0nisch">
-        <img src="https://img.shields.io/badge/instagram-elektr0nisch-pink.svg?logo=instagram&style=for-the-badge"
-             alt="Instagram">
+        <img src="/assets/img/shields/instagram.svg" alt="Instagram">
     </a>
 </div>
 
 <h2>Support me</h2>
-<div style="text-align: center;">
+<div class="text-center">
     <p>
         <a class="badge" style="margin-right: 20px" href="https://paypal.me/elektr0nisch">
-            <img src="https://img.shields.io/badge/paypal-donate-green.svg?logo=paypal&style=for-the-badge"
-                 alt="PayPal"/>
+            <img src="/assets/img/shields/en/paypal.svg" alt="PayPal"/>
         </a>
         <a class="badge" style="margin-right: 20px" href="https://buymeacoffee.com/elektr0nisch">
-            <img src="https://img.shields.io/badge/☕ buymeacoffee-donate-green.svg?style=for-the-badge"
-                 alt="buy me a coffee"/>
+            <img src="/assets/img/shields/en/buymeacoffee.svg" alt="Buy me a coffee"/>
         </a>
         <a class="badge" style="margin-right: 20px" href="https://ko-fi.com/elektr0nisch">
-            <img src="https://img.shields.io/badge/☕ ko--fi-donate-green.svg?style=for-the-badge"
-                 alt="KoFi"/>
+            <img src="/assets/img/shields/en/ko-fi.svg" alt="KoFi"/>
         </a>
     </p>
 </div>
@@ -285,37 +280,6 @@
     </p>
 </footer>
 
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        const modal = document.getElementById('imageModal');
-        const images = document.querySelectorAll('.fullscreen');
-        const modalImage = document.getElementById('modalImage');
-        const captionText = document.getElementById('caption');
-
-        images.forEach(img => {
-            img.addEventListener('click', function () {
-                modal.style.display = 'block';
-                modalImage.src = img.src;
-                captionText.innerHTML = this.alt;
-            });
-        });
-
-        const closeSpan = document.getElementById('close');
-        closeSpan.onclick = function () {
-            modal.style.display = 'none';
-        }
-
-        document.onkeydown = function (e) {
-            if (e.key === 'Escape') {
-                modal.style.display = 'none';
-            }
-        };
-    });
-
-    function decodeMail(encoded) {
-        const address = atob(encoded);
-        window.location.href = 'mailto:' + address;
-    }
-</script>
+<script type="application/javascript" src="assets/js/index.js"></script>
 </body>
 </html>
