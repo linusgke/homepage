@@ -1,33 +1,6 @@
-﻿<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="utf-8">
-    <title>Impressum – elektronisch.dev</title>
-    <meta name="viewport" content="initial-scale=1"/>
-    <meta name="description" content="Yet another computer enthusiast"/>
-    <meta name="robots" content="noindex">
-    <meta name="referrer" content="no-referrer">
+﻿<h1>Impressum</h1>
 
-    <meta property="og:url" content="https://elektronisch.dev/"/>
-    <meta property="og:title" content="Impressum – elektronisch.dev"/>
-    <meta property="og:description" content="Yet another computer enthusiast"/>
-    <meta property="og:image" content="https://elektronisch.dev/assets/img/logo.png"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:locale" content="de_DE"/>
-
-    <meta property="twitter:card" content="summary"/>
-    <meta property="twitter:site" content="@elektr0nisch"/>
-    <meta property="twitter:creator" content="@elektr0nisch"/>
-
-    <link rel="shortcut icon" type="image/webp" href="/assets/img/logo.webp"/>
-    <link rel="stylesheet" href="/assets/css/style.css">
-</head>
-
-<body>
-<p><?php include_once 'language.php' ?></p>
-<h1>Impressum</h1>
-
-<p><a href="/">&larr; Zurück zur Startseite</a></p>
+<p><a href="/?lang=<?= $language ?>">&larr; Zurück zur Startseite</a></p>
 
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
 <p>Linus Groschke<br/>
@@ -37,7 +10,7 @@
 
 <h2>Kontakt</h2>
 <p>Telefon: +49 151 17636248<br/>
-    E-Mail: <a href="javascript:decryptMail('Y29udGFjdEBlbGVrdHJvbmlzY2guZGV2')">contact(at)elektronisch.dev</a></p>
+    E-Mail: <a href="javascript:decodeMail('Y29udGFjdEBlbGVrdHJvbmlzY2guZGV2')">contact(at)elektronisch.dev</a></p>
 
 <h2>Haftungsausschluss</h2>
 <b>Haftung für Inhalte</b>
@@ -80,21 +53,3 @@
     <li><a href="https://www.flaticon.com/free-icons/germany" title="germany icons">Germany icons created by Freepik -
             Flaticon</a></li>
 </ul>
-
-<footer>
-    <p>&copy; elektronisch.dev - Alle Rechte vorbehalten.<br/>
-        <small>
-            <a href="https://github.com/elektr0nisch/homepage" target="_blank">Quellcode auf GitHub</a>&nbsp;&#8210;
-            <a href="/legal">Impressum</a>
-        </small>
-    </p>
-</footer>
-
-<script>
-    function decryptMail(encoded) {
-        const address = atob(encoded);
-        window.location.href = 'mailto:' + address;
-    }
-</script>
-</body>
-</html>

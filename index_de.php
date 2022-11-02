@@ -1,30 +1,4 @@
-﻿<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="utf-8">
-    <title>Startseite – elektronisch.dev</title>
-    <meta name="viewport" content="initial-scale=1"/>
-    <meta name="description" content="Yet another computer enthusiast"/>
-    <meta name="referrer" content="no-referrer">
-
-    <meta property="og:url" content="https://elektronisch.dev/"/>
-    <meta property="og:title" content="Startseite – elektronisch.dev"/>
-    <meta property="og:description" content="Yet another computer enthusiast"/>
-    <meta property="og:image" content="https://elektronisch.dev/assets/img/logo.png"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:locale" content="de_DE"/>
-
-    <meta property="twitter:card" content="summary"/>
-    <meta property="twitter:site" content="@elektr0nisch"/>
-    <meta property="twitter:creator" content="@elektr0nisch"/>
-
-    <link rel="shortcut icon" type="image/webp" href="/assets/img/logo.webp"/>
-    <link rel="stylesheet" href="/assets/css/style.css">
-</head>
-
-<body>
-<p><?php include_once 'language.php' ?></p>
-<div id="fullsize" onclick="this.style.display='none';"></div>
+﻿<div id="fullsize" onclick="this.style.display='none';"></div>
 
 <div class="text-center">
     <img class="logo" src="assets/img/logo.webp" width="200" height="200" alt="Logo">
@@ -238,7 +212,7 @@
     <a class="badge" style="margin-right: 20px" href="javascript:decodeMail('Y29udGFjdEBlbGVrdHJvbmlzY2guZGV2')">
         <img src="/assets/img/shields/mail.svg" alt="E-Mail">
     </a>
-    <a class="badge" style="margin-right: 20px" href="https://threema.id/WMU9B4KH">
+    <a class="badge" style="margin-right: 20px" href="https://threema.id/H57KM7KK">
         <img src="/assets/img/shields/threema.svg" alt="Threema">
     </a>
     <a class="badge" style="margin-right: 20px" href="https://matrix.to/#/@elektr0nisch:matrix.org">
@@ -273,16 +247,3 @@
     <img id="modalImage"/>
     <div id="caption"></div>
 </div>
-
-<footer>
-    <p>&copy; elektronisch.dev - Alle Rechte vorbehalten.<br/>
-        <small>
-            <a href="https://github.com/elektr0nisch/homepage" target="_blank">Quellcode auf GitHub</a>&nbsp;&#8210;
-            <a href="/legal">Impressum</a>
-        </small>
-    </p>
-</footer>
-
-<script type="application/javascript" src="assets/js/index.js"></script>
-</body>
-</html>
