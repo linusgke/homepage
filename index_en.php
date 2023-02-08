@@ -216,6 +216,9 @@
         <img src="/assets/img/shields/matrix.svg" alt="Matrix">
     </a>
     <br>
+    <a class="badge" style="margin-right: 20px" rel="me" href="https://climatejustice.rocks/@elektr0nisch">
+        <img src="/assets/img/shields/mastodon.svg" alt="Mastodon">
+    </a>
     <a class="badge" style="margin-right: 20px" href="https://twitter.com/elektr0nisch">
         <img src="/assets/img/shields/twitter.svg" alt="Twitter">
     </a>
