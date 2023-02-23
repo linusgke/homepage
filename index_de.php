@@ -236,12 +236,6 @@
         <a class="badge" style="margin-right: 20px" href="https://paypal.me/elektr0nisch">
             <img src="/assets/img/shields/de/paypal.svg" alt="PayPal"/>
         </a>
-        <a class="badge" style="margin-right: 20px" href="https://buymeacoffee.com/elektr0nisch">
-            <img src="/assets/img/shields/de/buymeacoffee.svg" alt="Buy me a coffee"/>
-        </a>
-        <a class="badge" style="margin-right: 20px" href="https://ko-fi.com/elektr0nisch">
-            <img src="/assets/img/shields/de/ko-fi.svg" alt="KoFi"/>
-        </a>
     </p>
 </div>
 
