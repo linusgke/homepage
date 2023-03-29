@@ -8,165 +8,73 @@
     Linus Groschke, *2003, lives in Augsburg, Germany. He currently attends the thirteenth grade at the Freie
     Waldorfschule
     Augsburg. He is very interested in technology and is passionate about programming. He is politically active for
-    Fridays For Future and the Climate Camp Augsburg.
+    the SSV Augsburg, Fridays For Future and the Climate Camp Augsburg.
 </p>
-<h2>IT projects</h2>
+<h2>Experience</h2>
 
 <ul>
     <li class="box red">
-        <input type="checkbox" id="devicez">
-        <label for="devicez">
-            <b><a href="https://devicez.de" target="_blank">Devicez</a></b> <br/>
-            <span>Free & open-source device management system</span> <br/>
+        <input type="checkbox" id="schaffer">
+        <label for="schaffer">
+            <b><a href="https://www.schaffer-edp.de/" target="_blank">schaffer-edp</a></b> <br/>
+            <span>Employee at local IT firm</span> <br/>
             <small>
-                since February 2022<br/>
-                <a>Show more</a>
+                since December 2022<br/>
             </small>
         </label>
         <div class="abstract">
-            <p>
-                <img src="/assets/img/devicez.webp" width="256" height="256" alt="Devicez Logo"
-                     style="float:left"><br/>
-                <em>Devicez</em> is my latest team spare time project. The goal is to create a free and open source
-                device management system that can be used in both standalone and cloud operation. Currently, the project
-                is still in its infancy. Since I am not working on it with high priority at the moment, it might take
-                a while until I get first results.<br/><br/><br/>
-                To stay up to date, feel free to follow our <a href="https://github.com/DevicezApp"
-                                                               target="_blank">GitHub organization</a>.
-            </p>
         </div>
     </li>
     <li class="box blue">
         <input type="checkbox" id="fwa">
         <label for="fwa">
             <b><a href="https://waldorf-augsburg.de" target="_blank">Freie Waldorfschule Augsburg</a></b> <br/>
-            <span>Volunteer IT work at my school</span> <br/>
+            <span>Employee in the IT team</span> <br/>
             <small>
-                November 2020 - September 2022<br/>
-                <a>Show more</a>
+                since November 2020<br/>
             </small>
         </label>
         <div class="abstract">
-            <p>
-                <img src="/assets/img/fwa.webp" width="1400" height="319" style="height: 70%; width: 70%"
-                     alt="Freie Waldorfschule Augsburg Logo"><br/>
-                In November 2020, in the midst of the Corona pandemic, a team of three students formed at my school.
-                Over the next few months, we did an incredible amount of work to be able to offer scheduled online
-                courses starting January 1, 2021.<br/>
-
-                At the beginning we set up a provisional workplace in the basement of the school, from which the
-                first scheduled transmissions of the <em>"Hauptunterricht"</em> (first two lessons at a Waldorf school)
-                were managed.<br/><br/>
-
-                <img class="fullscreen" src="/assets/img/fwa/it_keller_provisorisch.webp" width="2560" height="1440"
-                     style="height: 40%; width: 40%; float: left; margin-right: 10px"
-                     alt="Temporary computer installation in the basement of the school">
-
-                <img class="fullscreen" src="/assets/img/fwa/uebertragung_2020.webp" width="921" height="447"
-                     style="height: 46%; width: 46%"
-                     alt="Computer screen with educational platform and VoiceMeeter"><br/><br/>
-
-                Over the next few weeks, we set up a decent workspace and introduced a ticket system for better task
-                management, which was very soon overflowing with requests and demands for help.<br/><br/>
-
-                <img class="fullscreen" src="/assets/img/fwa/ticketsystem.webp" width="948" height="364"
-                     style="height: 50%; width: 50%; float: left; margin-right: 10px"
-                     alt="Overview graph of the high number of tickets">
-
-                <img class="fullscreen" src="/assets/img/fwa/it_keller_new.webp" width="2560" height="1440"
-                     style="height: 40%; width: 40%"
-                     alt="Freshly painted new IT room"><br/><br/>
-
-                Over the Christmas vacations, we upgraded both hardware and software to enable scheduled online classes,
-                in distance as well as hybrid forms, in the new year. Self-developments such as the
-                <em>LessonControl</em> management software and the use of powerful streaming tools such as OBS and
-                VoiceMeeter enabled us to use multiple audio and video sources.<br/><br/>
-
-                <img class="fullscreen" src="/assets/img/fwa/online_stundenplan.webp" width="1326" height="664"
-                     style="height: 40%; width: 40%; float: left; margin-right: 10px"
-                     alt="Online schedule of the 11th class (BBB = BigBlueButton, i.e. this class was online).">
-
-                <img class="fullscreen" src="/assets/img/fwa/lessoncontrol.webp" width="4272" height="2848"
-                     style="height: 40%; width: 40%"
-                     alt="LessonControl splashscreen">
-
-                <img class="fullscreen" src="/assets/img/fwa/lessoncontrol_console.webp" width="966" height="898"
-                     style="height: 40%; width: 40%"
-                     alt="LessonControl server console"><br/><br/>
-
-                Because of the student support and our school's willingness to allow it, we were able to get through the
-                hot periods of the pandemic well and make it as "normal" as possible. Because of our dedication during
-                pandemic times, we also established ourselves as <em>tech students</em> in 2022, taking care of
-                everything technical during events and generally maintaining the school's infrastructure.<br/><br/>
-
-                For the coming school year 2022/23, however, it is clear that we will have to focus primarily on our
-                upcoming graduation and will therefore probably hardly find time to provide technical assistance. The
-                two-year era of the three <em>tech students</em> is coming to an end!<br/><br/>
-
-                <img class="fullscreen" src="/assets/img/fwa/verabschiedung_2022.webp" width="1800" height="1200"
-                     style="height: 50%; width: 50%"
-                     alt="Official farewell to the three tech students at the employee dinner on July 28, 2022 (from left to right: Managing Director Alexander Mattheus, Sebastian Mach, Tim Zolleis, Linus Groschke)"/><br/><br/>
-
-                Although we have already officially said goodbye, we will still have a lot of work to do this year
-                during the summer vacations in order to leave our legacy in good shape.
-            </p>
         </div>
     </li>
     <li class="box orange">
         <input type="checkbox" id="cytooxien">
         <label for="cytooxien">
             <b><a href="https://cytooxien.de" target="_blank">Cytooxien</a></b> <br/>
-            <span>Game developer at large German Minecraft server network</span> <br/>
+            <span>Game developer for a large German Minecraft network</span> <br/>
             <small>
-                May 2020 - September 2021<br/>
-                <a>Show more</a>
+                May 2020 – September 2021<br/>
             </small>
         </label>
         <div class="abstract">
-            <p>
-                <img src="/assets/img/cytooxien.webp" width="300" height="300" alt="Animiertes Cytooxien Logo"
-                     style="height: 50%; width: 50%; float: left; padding-right: 20px"><br/>
-                I was a game developer at one of Germany's largest Minecraft server networks called <em>Cytooxien</em>
-                from May 2020 to September 2021. At peak times, Cytooxien had up to 2000 players playing simultaneously
-                in various game modes such as <em>Bedwars, Mario Party or SkyBlock</em>.<br/><br/><br/><br/>
-
-                There, I mainly developed the game interface (Game API) called <em>Strider</em>, which as a basic
-                implementation took over some general tasks such as team distribution. Besides these basic tasks,
-                Strider
-                allows, among other things, to run multiple independent game rounds on the same Minecraft server, which
-                meant a significant resource relief, increased the total capacity of simultaneous rounds and allowed
-                unprecedented flexibility.<br/><br/>
-
-                On September 24, 2021, the server network celebrated its 10th anniversary. A few weeks later, I left the
-                development team to concentrate more on my school career.
-            </p>
         </div>
     </li>
 </ul>
 
-<h2>Political commitment</h2>
+<h2>Politics</h2>
 
 <ul>
+    <li class="box red">
+        <input type="checkbox" id="ssv">
+        <label for="ssv">
+            <b><a href="https://stadtsv-aux.de" target="_blank">SSV Augsburg</a></b> <br/>
+            <span>active member, public relations</span> <br/>
+            <small>
+                since November 2021<br/>
+            </small>
+        </label>
+        <div class="abstract">
+        </div>
+    </li>
     <li class="box green">
         <input type="checkbox" id="fff">
         <label for="fff">
             <b><a href="https://fff-augsburg.de" target="_blank">Fridays For Future Augsburg</a></b> <br/>
             <small>
                 since March 2022<br/>
-                <a>Show more</a>
             </small>
         </label>
         <div class="abstract">
-            <p>
-                <img src="/assets/img/fff.webp" width="889" height="889" alt="Fridays For Future Augsburg Logo"
-                     style="height: 30%; width: 30%; border-radius: 52%; float: left; padding-right: 20px"><br/>
-                Since March 2022, I have been involved in the Augsburg FridaysForFuture local group. There I help with
-                the organization of demonstrations, am a guard myself, or help with the sound system.<br/>
-                I am involved because I believe it is the last chance to bring the climate crisis the attention it
-                needs.<br/><br/>
-
-                <b>This crisis affects us all! My motto: We must act NOW.</b>
-            </p>
         </div>
     </li>
     <li class="box green">
@@ -175,36 +83,14 @@
             <b><a href="https://www.klimacamp-augsburg.de" target="_blank">Climate Camp Augsburg</a></b> <br/>
             <small>
                 since December 2021<br/>
-                <a>Show more</a>
             </small>
         </label>
         <div class="abstract">
-            <p>
-                <img src="/assets/img/klimacamp.webp" width="1080" height="1080" alt="Klimacamp Augsburg Logo"
-                     style="height: 30%; width: 30%; border-radius: 52%; float: left; padding-right: 20px"><br/>
-                On December 9, 2021, the Climate Camp Augsburg had to move from its previous location - the fish market
-                next to the Perlachturm at the Rathausplatz - to the Moritzplatz, because stones threatened to fall from
-                the Perlachturm. Out of sheer curiosity, I decided to help out.<br/><br/><br/>
-
-                On site, I found an open-minded and engaged community that cared deeply about our future.
-                Guided by the desire to contribute my share to an improvement, I decided to visit the camp
-                more often from now on.<br/><br/>
-
-                The Klimacamp Augsburg is in the sense of the freedom of assembly, which is anchored in our Basic Law,
-                an
-                assembly. An assembly that is in existence since July 1, 2020. This makes the camp the longest
-                assembly in history! In order to maintain assembly status, at least two people must be present at any
-                time of the day. That is exactly what we are doing. For two years now!<br/><br/>
-
-                There I talk to pedestrians and answer them many questions about the climate crisis, and ways to combat
-                it effectively. Everyone is welcome to visit the camp!<br/>
-                <b>We camp until you act.</b>
-            </p>
         </div>
     </li>
 </ul>
 
-<h2>Contact</h2>
+<h2>Contact & social networks</h2>
 <div class="text-center">
     <a class="badge" style="margin-right: 20px" href="javascript:decodeMail('Y29udGFjdEBlbGVrdHJvbmlzY2guZGV2')">
         <img src="/assets/img/shields/mail.svg" alt="E-Mail">
@@ -225,15 +111,6 @@
     <a class="badge" style="margin-right: 20px" href="https://instagram.com/elektr0nisch">
         <img src="/assets/img/shields/instagram.svg" alt="Instagram">
     </a>
-</div>
-
-<h2>Support me</h2>
-<div class="text-center">
-    <p>
-        <a class="badge" style="margin-right: 20px" href="https://paypal.me/elektr0nisch">
-            <img src="/assets/img/shields/en/paypal.svg" alt="PayPal"/>
-        </a>
-    </p>
 </div>
 
 <div id="imageModal" class="modal">

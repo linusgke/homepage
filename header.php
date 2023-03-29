@@ -8,7 +8,7 @@
     <meta name="referrer" content="no-referrer">
 
     <meta property="og:url" content="https://elektronisch.dev/"/>
-    <meta property="og:title" content="Startseite – elektronisch.dev"/>
+    <meta property="og:title" content="Linus – elektronisch.dev"/>
     <meta property="og:description" content="Yet another computer enthusiast"/>
     <meta property="og:image" content="https://elektronisch.dev/assets/img/logo.png"/>
     <meta property="og:type" content="website"/>
