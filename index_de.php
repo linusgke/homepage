@@ -110,6 +110,9 @@
     <a class="badge" style="margin-right: 20px" href="https://instagram.com/elektr0nisch">
         <img src="/assets/img/shields/instagram.svg" alt="Instagram">
     </a>
+    <a class="badge" style="margin-right: 20px" href="https://de.wikipedia.org/Benutzer:Linus Groschke">
+        <img src="/assets/img/shields/wikipedia.svg" alt="Wikipedia">
+    </a>
 </div>
 
 <div id="imageModal" class="modal">
