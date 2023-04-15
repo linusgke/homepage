@@ -151,6 +151,10 @@ a:not(.badge):hover {
     border-radius: 10px;
 }
 
+.badge {
+    margin-right: 20px;
+}
+
 .fullscreen {
     transition: 0.3s;
 }
@@ -242,7 +246,9 @@ a:not(.badge):hover {
 
 .language {
     margin-right: 10px;
-    float: right
+    float: right;
+    width: 24px;
+    height: 24px;
 }
 
 .text-center {
@@ -257,6 +263,8 @@ a:not(.badge):hover {
 
 .logo {
     border-radius: 50%;
+    width: 200px;
+    height: 200px;
 }
 
 .red {

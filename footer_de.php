@@ -7,6 +7,6 @@
     </p>
 </footer>
 
-<script type="application/javascript" src="assets/js/index.js"></script>
+<script src="assets/js/index.js"></script>
 </body>
 </html>
