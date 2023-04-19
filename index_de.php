@@ -1,4 +1,12 @@
-﻿<div id="fullsize" onclick="this.style.display='none';"></div>
+﻿<ul>
+    <li class="box red">
+        <input type="checkbox" id="mail">
+        <label for="mail">
+            <h3>Achtung, ein wichtiger Hinweis!</h3>
+            <span>Ein E-Mail-Konto dieser Domain wurde am 16.04.2023 kompromittiert und zum Versand von Spam-Mails verwendet. Das Konto wurde mittlerweile deaktiviert und der Spamversand somit unterbunden! <br/> <em>Sollten Sie eine solche Spam-Mail erhalten haben, löschen Sie diese bitte umgehend.</em></span>
+        </label>
+    </li>
+</ul>
 
 <div class="text-center">
     <img class="logo" src="assets/img/logo.webp" alt="Logo">
