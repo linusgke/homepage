@@ -1,26 +1,19 @@
-﻿<ul>
-    <li class="box red">
-        <input type="checkbox" id="mail">
-        <label for="mail">
-            <h3>Attention, an important notice!</h3>
-            <span>An email account of this domain was compromised on 04/16/2023 and used to send spam. The account has been deactivated in the meantime and the sending of spam has thus been stopped! <br/> <em>If you have received such spam, please delete it immediately.</em></span>
-        </label>
-    </li>
-</ul>
-
-<div class="text-center">
+﻿<div class="text-center">
     <img class="logo" src="assets/img/logo.webp" alt="Logo">
 </div>
-
 <h1>I'm Linus!</h1>
-<p class="jumbotron">
+<p class="jumbotron gray">
     Linus Groschke, *2003, lives in Augsburg, Germany. He currently attends the thirteenth grade at the Freie
-    Waldorfschule
-    Augsburg. He is very interested in technology and is passionate about programming. He is politically active for
-    the SSV Augsburg, Fridays For Future and the Climate Camp Augsburg.
+    Waldorfschule Augsburg. He is very interested in technology and is passionate about programming. He is politically
+    active for the SSV Augsburg, Fridays For Future and the Climate Camp Augsburg.
 </p>
 
-<h2>Experience</h2>
+<p class="jumbotron red">
+    I am a Highschool graduate! The next exam is <b>mathematics, on 05/03</b>. This is followed by the last exam in
+    <b>history, on 05/09</b>. With this exam my school chapter ends!
+</p>
+
+<h2>Tech</h2>
 <ul>
     <li class="box red">
         <input type="checkbox" id="schaffer">

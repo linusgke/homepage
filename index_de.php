@@ -1,24 +1,20 @@
-﻿<ul>
-    <li class="box red">
-        <input type="checkbox" id="mail">
-        <label for="mail">
-            <h3>Achtung, ein wichtiger Hinweis!</h3>
-            <span>Ein E-Mail-Konto dieser Domain wurde am 16.04.2023 kompromittiert und zum Versand von Spam-Mails verwendet. Das Konto wurde mittlerweile deaktiviert und der Spamversand somit unterbunden! <br/> <em>Sollten Sie eine solche Spam-Mail erhalten haben, löschen Sie diese bitte umgehend.</em></span>
-        </label>
-    </li>
-</ul>
-
-<div class="text-center">
+﻿<div class="text-center">
     <img class="logo" src="assets/img/logo.webp" alt="Logo">
 </div>
 <h1>Ich bin Linus!</h1>
-<p class="jumbotron">
+<p class="jumbotron gray">
     Linus Groschke, *2003, lebt in Augsburg. Dort besucht er aktuell die dreizehnte Klasse der Freien Waldorfschule
-    Augsburg. Er ist technisch sehr interessiert und engagiert sich als Hobby-Programmierer. Bei der SSV Augsburg, bei Fridays For Future und
+    Augsburg. Er ist technisch sehr interessiert und engagiert sich als Hobby-Programmierer. Bei der SSV Augsburg, bei
+    Fridays For Future und
     im Klimacamp Augsburg ist er politisch aktiv.
 </p>
 
-<h2>Erfahrungen</h2>
+<p class="jumbotron red">
+    Ich bin Abiturient! Die nächste Prüfung ist <b>Mathematik, am 03.05.</b> Anschließend folgt die
+    letzte Prüfung in <b>Geschichte, am 09.05.</b> Mit dieser Prüfung endet für mich das Kapitel Schule!
+</p>
+
+<h2>Technisches Engagement</h2>
 <ul>
     <li class="box red">
         <input type="checkbox" id="schaffer">

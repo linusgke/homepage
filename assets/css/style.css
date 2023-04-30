@@ -152,7 +152,11 @@ a:not(.badge):hover {
 }
 
 .badge {
-    margin-right: 20px;
+    margin-right: 10px;
+}
+
+.badge img {
+    border-radius: 10px;
 }
 
 .fullscreen {
@@ -256,7 +260,6 @@ a:not(.badge):hover {
 }
 
 .jumbotron {
-    background-color: gray;
     border-radius: 10px;
     text-shadow: 0 0 5px rgba(0, 0, 0, 1);
 }
@@ -265,6 +268,10 @@ a:not(.badge):hover {
     border-radius: 50%;
     width: 200px;
     height: 200px;
+}
+
+.gray {
+    background-color: gray;
 }
 
 .red {
