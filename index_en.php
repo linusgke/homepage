@@ -9,8 +9,7 @@
 </p>
 
 <p class="jumbotron red">
-    I am a Highschool graduate! The next exam is <b>mathematics, on 05/03</b>. This is followed by the last exam in
-    <b>history, on 05/09</b>. With this exam my school chapter ends!
+    I am a Highschool graduate! The next and last exam is in <b>history, on 05/09</b>. <br/> With that my school chapter ends!
 </p>
 
 <h2>Tech</h2>

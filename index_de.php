@@ -10,8 +10,7 @@
 </p>
 
 <p class="jumbotron red">
-    Ich bin Abiturient! Die nächste Prüfung ist <b>Mathematik, am 03.05.</b> Anschließend folgt die
-    letzte Prüfung in <b>Geschichte, am 09.05.</b> Mit dieser Prüfung endet für mich das Kapitel Schule!
+    Ich bin Abiturient! Die nächste und letzte Prüfung ist in <b>Geschichte, am 09.05.</b> <br/> Damit endet für mich das Kapitel Schule!
 </p>
 
 <h2>Technisches Engagement</h2>
