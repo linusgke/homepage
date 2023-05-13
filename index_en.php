@@ -9,7 +9,7 @@
 </p>
 
 <p class="jumbotron red">
-    I am a Highschool graduate! The next and last exam is in <b>history, on 05/09</b>. <br/> With that my school chapter ends!
+    I'm not a high school graduate anymore! All exams are done. I'll get my result on May 26th. :-)
 </p>
 
 <h2>Tech</h2>
@@ -48,6 +48,16 @@
 
 <h2>Politics</h2>
 <ul>
+    <li class="box lightblue">
+        <input type="checkbox" id="wlsv">
+        <label for="wlsv">
+            <b><a href="https://wlsv-bayern.de" target="_blank">W-LSV Bayern</a></b> <br/>
+            <span>founding member</span> <br/>
+            <small>
+                since April 2023<br/>
+            </small>
+        </label>
+    </li>
     <li class="box red">
         <input type="checkbox" id="ssv">
         <label for="ssv">

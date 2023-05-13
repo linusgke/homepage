@@ -10,7 +10,7 @@
 </p>
 
 <p class="jumbotron red">
-    Ich bin Abiturient! Die nächste und letzte Prüfung ist in <b>Geschichte, am 09.05.</b> <br/> Damit endet für mich das Kapitel Schule!
+    Ich bin kein Abiturient mehr! Alle Prüfungen sind geschrieben. Mein Ergebnis erhalte ich am 26.05. :-)
 </p>
 
 <h2>Technisches Engagement</h2>
@@ -49,6 +49,16 @@
 
 <h2>Politisches Engagement</h2>
 <ul>
+    <li class="box lightblue">
+        <input type="checkbox" id="wlsv">
+        <label for="wlsv">
+            <b><a href="https://wlsv-bayern.de" target="_blank">W-LSV Bayern</a></b> <br/>
+            <span>Gründungsmitglied</span> <br/>
+            <small>
+                seit April 2023<br/>
+            </small>
+        </label>
+    </li>
     <li class="box red">
         <input type="checkbox" id="ssv">
         <label for="ssv">

@@ -289,3 +289,7 @@ a:not(.badge):hover {
 .blue {
     background-color: dodgerblue;
 }
+
+.lightblue {
+    background-color: #b4c5e4;
+}
