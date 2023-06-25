@@ -3,13 +3,13 @@
 </div>
 <h1>I'm Linus!</h1>
 <p class="jumbotron gray">
-    Linus Groschke, *2003, lives in Augsburg, Germany. He currently attends the thirteenth grade at the Freie
-    Waldorfschule Augsburg. He is very interested in technology and is passionate about programming. He is politically
-    active for the SSV Augsburg, Fridays For Future and the Climate Camp Augsburg.
+    Linus Groschke, *2003, lives in Augsburg, Germany. He graduated from the Freie Waldorfschule Augsburg in 2023 and is
+    now working for a local IT firm. He is very interested in technology and is passionate about programming. He is
+    politically active for the SSV Augsburg, Fridays For Future and the Climate Camp Augsburg.
 </p>
 
 <p class="jumbotron red">
-    I'm not a high school graduate anymore! All exams are done. I'll get my result on May 26th. :-)
+    I'm done with school! I passed the Abitur with a GPA of 2.6 :-)
 </p>
 
 <h2>Tech</h2>
@@ -58,16 +58,6 @@
             </small>
         </label>
     </li>
-    <li class="box red">
-        <input type="checkbox" id="ssv">
-        <label for="ssv">
-            <b><a href="https://www.stadtsv-aux.de" target="_blank">SSV Augsburg</a></b> <br/>
-            <span>active member, public relations</span> <br/>
-            <small>
-                since November 2021<br/>
-            </small>
-        </label>
-    </li>
     <li class="box green">
         <input type="checkbox" id="fff">
         <label for="fff">
@@ -83,6 +73,16 @@
             <b><a href="https://www.klimacamp-augsburg.de" target="_blank">Climate Camp Augsburg</a></b> <br/>
             <small>
                 since December 2021<br/>
+            </small>
+        </label>
+    </li>
+    <li class="box red">
+        <input type="checkbox" id="ssv">
+        <label for="ssv">
+            <b><a href="https://www.stadtsv-aux.de" target="_blank">SSV Augsburg</a></b> <br/>
+            <span>active member, public relations</span> <br/>
+            <small>
+                since November 2021<br/>
             </small>
         </label>
     </li>

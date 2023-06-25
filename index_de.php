@@ -3,14 +3,13 @@
 </div>
 <h1>Ich bin Linus!</h1>
 <p class="jumbotron gray">
-    Linus Groschke, *2003, lebt in Augsburg. Dort besucht er aktuell die dreizehnte Klasse der Freien Waldorfschule
-    Augsburg. Er ist technisch sehr interessiert und engagiert sich als Hobby-Programmierer. Bei der SSV Augsburg, bei
-    Fridays For Future und
-    im Klimacamp Augsburg ist er politisch aktiv.
+    Linus Groschke, *2003, lebt in Augsburg. Er hat die Freie Waldorfschule Augsburg 2023 mit Abitur abgeschlossen und arbeitet nun bei einem
+    lokalen IT-Dienstleister. Er ist technisch sehr interessiert und engagiert sich als Hobby-Programmierer.
+    Bei der SSV Augsburg, bei Fridays For Future und im Klimacamp Augsburg ist er politisch aktiv.
 </p>
 
 <p class="jumbotron red">
-    Ich bin kein Abiturient mehr! Alle Prüfungen sind geschrieben. Mein Ergebnis erhalte ich am 26.05. :-)
+    Ich bin fertig mit Schule! Das Abitur habe ich mit einem Notendurchschnitt von 2,6 bestanden :-)
 </p>
 
 <h2>Technisches Engagement</h2>
@@ -59,16 +58,6 @@
             </small>
         </label>
     </li>
-    <li class="box red">
-        <input type="checkbox" id="ssv">
-        <label for="ssv">
-            <b><a href="https://www.stadtsv-aux.de" target="_blank">SSV Augsburg</a></b> <br/>
-            <span>Aktives Mitglied, Öffentlichkeitsarbeit</span> <br/>
-            <small>
-                seit November 2021<br/>
-            </small>
-        </label>
-    </li>
     <li class="box green">
         <input type="checkbox" id="fff">
         <label for="fff">
@@ -84,6 +73,16 @@
             <b><a href="https://www.klimacamp-augsburg.de" target="_blank">Klimacamp Augsburg</a></b> <br/>
             <small>
                 seit Dezember 2021<br/>
+            </small>
+        </label>
+    </li>
+    <li class="box red">
+        <input type="checkbox" id="ssv">
+        <label for="ssv">
+            <b><a href="https://www.stadtsv-aux.de" target="_blank">SSV Augsburg</a></b> <br/>
+            <span>Aktives Mitglied, Öffentlichkeitsarbeit</span> <br/>
+            <small>
+                seit November 2021<br/>
             </small>
         </label>
     </li>
