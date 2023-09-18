@@ -2,14 +2,15 @@
     <img class="logo" src="assets/img/logo.webp" alt="Logo">
 </div>
 <h1>I'm Linus!</h1>
-<p class="jumbotron gray">
-    Linus Groschke, *2003, lives in Augsburg, Germany. He graduated from the Freie Waldorfschule Augsburg in 2023 and is
-    now working for a local IT firm. He is very interested in technology and is passionate about programming. He is
-    politically active for the SSV Augsburg, Fridays For Future and the Climate Camp Augsburg.
+<p class="jumbotron text-center red">
+    Apprentice IT Specialist for System Integration
 </p>
 
-<p class="jumbotron red">
-    I'm done with school! I passed the Abitur with a GPA of 2.6 :-)
+<p class="jumbotron gray">
+    Linus Groschke, *2003, lives in Augsburg, Germany. He graduated from the Augsburg Freie Waldorfschule
+    Augsburg in July 2023 with the Abitur and is now an apprentice IT specialist for system integration. He is very
+    interested in technology and is passionate about programming. He is politically active for the SSV Augsburg, Fridays
+    For Future and the Climate Camp Augsburg.
 </p>
 
 <h2>Tech</h2>
@@ -18,9 +19,9 @@
         <input type="checkbox" id="schaffer">
         <label for="schaffer">
             <b><a href="https://www.schaffer-edp.de/" target="_blank">schaffer-edp</a></b> <br/>
-            <span>Employee at local IT firm</span> <br/>
+            <span>Apprentice IT Specialist for System Integration</span> <br/>
             <small>
-                since December 2022<br/>
+                since September 2023<br/>
             </small>
         </label>
     </li>
@@ -31,6 +32,16 @@
             <span>Employee in the IT team</span> <br/>
             <small>
                 since November 2020<br/>
+            </small>
+        </label>
+    </li>
+    <li class="box green">
+        <input type="checkbox" id="waldorfconnect">
+        <label for="waldorfconnect">
+            <b><a href="https://waldorfconnect.de" target="_blank">WaldorfConnect</a></b> <br/>
+            <span>co-founder</span> <br/>
+            <small>
+                since July 2023<br/>
             </small>
         </label>
     </li>
@@ -52,7 +63,7 @@
         <input type="checkbox" id="wlsv">
         <label for="wlsv">
             <b><a href="https://wlsv-bayern.de" target="_blank">W-LSV Bayern</a></b> <br/>
-            <span>founding member</span> <br/>
+            <span>co-founder</span> <br/>
             <small>
                 since April 2023<br/>
             </small>
@@ -80,7 +91,7 @@
         <input type="checkbox" id="ssv">
         <label for="ssv">
             <b><a href="https://www.stadtsv-aux.de" target="_blank">SSV Augsburg</a></b> <br/>
-            <span>active member, public relations</span> <br/>
+            <span>active member, public relations and IT</span> <br/>
             <small>
                 since November 2021<br/>
             </small>
@@ -118,7 +129,9 @@
         <img src="/assets/img/shields/wikidata.svg" alt="Wikidata">
     </a>
     <br>
-    <a class="badge" href="https://www.abuseipdb.com/user/116584" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-        <img src="https://www.abuseipdb.com/contributor/116584.svg" alt="AbuseIPDB Contributor Badge" style="width: 176px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));padding: 5px;">
+    <a class="badge" href="https://www.abuseipdb.com/user/116584"
+       title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+        <img src="https://www.abuseipdb.com/contributor/116584.svg" alt="AbuseIPDB Contributor Badge"
+             style="width: 176px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));padding: 5px;">
     </a>
 </div>

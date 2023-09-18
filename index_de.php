@@ -2,14 +2,15 @@
     <img class="logo" src="assets/img/logo.webp" alt="Logo">
 </div>
 <h1>Ich bin Linus!</h1>
-<p class="jumbotron gray">
-    Linus Groschke, *2003, lebt in Augsburg. Er hat die Freie Waldorfschule Augsburg 2023 mit Abitur abgeschlossen und arbeitet nun bei einem
-    lokalen IT-Dienstleister. Er ist technisch sehr interessiert und engagiert sich als Hobby-Programmierer.
-    Bei der SSV Augsburg, bei Fridays For Future und im Klimacamp Augsburg ist er politisch aktiv.
+<p class="jumbotron text-center red">
+    Auszubildender Fachinformatiker für Systemintegration
 </p>
 
-<p class="jumbotron red">
-    Ich bin fertig mit Schule! Das Abitur habe ich mit einem Notendurchschnitt von 2,6 bestanden :-)
+<p class="jumbotron gray">
+    Linus Groschke, *2003, lebt in Augsburg. Er hat die Freie Waldorfschule Augsburg Juli 2023 mit Abitur abgeschlossen und
+    ist nun Auszubildender Fachinformatiker für Systemintegration. Er ist technisch sehr interessiert und engagiert sich
+    auch als Hobby-Programmierer. Bei der SSV Augsburg, bei Fridays For Future und im Klimacamp Augsburg ist er
+    politisch aktiv.
 </p>
 
 <h2>Technisches Engagement</h2>
@@ -18,9 +19,9 @@
         <input type="checkbox" id="schaffer">
         <label for="schaffer">
             <b><a href="https://www.schaffer-edp.de/" target="_blank">schaffer-edp</a></b> <br/>
-            <span>Angestellter bei Augsburger IT-Dienstleister</span> <br/>
+            <span>Auszubildender Fachinformatiker für Systemintegration</span> <br/>
             <small>
-                seit Dezember 2022<br/>
+                seit September 2023<br/>
             </small>
         </label>
     </li>
@@ -31,6 +32,16 @@
             <span>Mitarbeiter im IT-Team</span> <br/>
             <small>
                 seit November 2020<br/>
+            </small>
+        </label>
+    </li>
+    <li class="box green">
+        <input type="checkbox" id="wlsv">
+        <label for="wlsv">
+            <b><a href="https://waldorfconnect.de" target="_blank">WaldorfConnect</a></b> <br/>
+            <span>Mitbegründer</span> <br/>
+            <small>
+                seit Juli 2023<br/>
             </small>
         </label>
     </li>
@@ -80,7 +91,7 @@
         <input type="checkbox" id="ssv">
         <label for="ssv">
             <b><a href="https://www.stadtsv-aux.de" target="_blank">SSV Augsburg</a></b> <br/>
-            <span>Aktives Mitglied, Öffentlichkeitsarbeit</span> <br/>
+            <span>Aktives Mitglied, Öffentlichkeitsarbeit und IT</span> <br/>
             <small>
                 seit November 2021<br/>
             </small>
@@ -118,7 +129,9 @@
         <img src="/assets/img/shields/wikidata.svg" alt="Wikidata">
     </a>
     <br>
-    <a class="badge" href="https://www.abuseipdb.com/user/116584" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-        <img src="https://www.abuseipdb.com/contributor/116584.svg" alt="AbuseIPDB Contributor Badge" style="width: 176px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));padding: 5px;">
+    <a class="badge" href="https://www.abuseipdb.com/user/116584"
+       title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+        <img src="https://www.abuseipdb.com/contributor/116584.svg" alt="AbuseIPDB Contributor Badge"
+             style="width: 176px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));padding: 5px;">
     </a>
 </div>
