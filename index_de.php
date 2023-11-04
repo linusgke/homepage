@@ -107,19 +107,15 @@
     <a class="badge" href="https://threema.id/H57KM7KK">
         <img src="/assets/img/shields/threema.svg" alt="Threema">
     </a>
-    <br>
-    <a class="badge" href="https://telegram.me/elektr0nisch">
+    <a class="badge" href="https://telegram.me/linusgke">
         <img src="/assets/img/shields/telegram.svg" alt="Telegram">
     </a>
-    <a class="badge" href="https://matrix.to/#/@elektr0nisch:matrix.org">
-        <img src="/assets/img/shields/matrix.svg" alt="Matrix">
-    </a>
     <br>
-    <a class="badge" rel="me" href="https://climatejustice.rocks/@elektr0nisch">
-        <img src="/assets/img/shields/mastodon.svg" alt="Mastodon">
-    </a>
-    <a class="badge" href="https://instagram.com/elektr0nisch">
+    <a class="badge" href="https://instagram.com/linus.gke">
         <img src="/assets/img/shields/instagram.svg" alt="Instagram">
+    </a>
+    <a class="badge" href="https://github.com/linusgke">
+        <img src="/assets/img/shields/github.svg" alt="GitHub">
     </a>
     <br>
     <a class="badge" href="https://de.wikipedia.org/wiki/Benutzer:Linus_Groschke">
@@ -127,11 +123,5 @@
     </a>
     <a class="badge" href="https://www.wikidata.org/wiki/Special:Contributions/Linus_Groschke">
         <img src="/assets/img/shields/wikidata.svg" alt="Wikidata">
-    </a>
-    <br>
-    <a class="badge" href="https://www.abuseipdb.com/user/116584"
-       title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-        <img src="https://www.abuseipdb.com/contributor/116584.svg" alt="AbuseIPDB Contributor Badge"
-             style="width: 176px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));padding: 5px;">
     </a>
 </div>
