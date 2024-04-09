@@ -1,4 +1,12 @@
-function decodeMail(encoded) {
+function decodeMail(encoded, redirect) {
     const address = atob(encoded);
-    window.location.href = 'mailto:' + address;
+
+    if (redirect) {
+        window.location.href = 'mailto:' + address;
+        return;
+    }
+
+    const element = document.getElementById('mail');
+    element.href = 'mailto:' + address;
+    element.textContent = address;
 }

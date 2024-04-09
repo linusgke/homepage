@@ -10,8 +10,9 @@
 </p>
 
 <h2>Contact</h2>
-<p>Telefon: +49 151 17636248<br/>
-    E-Mail: <a href="javascript:decodeMail('Y29udGFjdEBlbGVrdHJvbmlzY2guZGV2')">contact(at)elektronisch.dev</a></p>
+<p>Phone: +49 821 50831032<br/>
+    Fax: +49 821 50831033<br/>
+    E-Mail: <a id="mail" href="javascript:decodeMail('Y29udGFjdEBlbGVrdHJvbmlzY2guZGV2', false)">Click here!</a></p>
 
 <h2>Disclaimer</h2>
 <b>Liability for content</b>
