@@ -116,7 +116,7 @@
 <table class="center">
     <tr>
         <th>
-            <a class="badge" href="javascript:decodeMail('Y29udGFjdEBlbGVrdHJvbmlzY2guZGV2', true)">
+            <a class="badge" href="javascript:decodeMail('bWFpbEBsaW51cy5iYXllcm4=', true)">
                 <img src="/assets/img/shields/mail.svg" alt="E-Mail">
             </a>
         </th>

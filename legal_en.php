@@ -12,7 +12,7 @@
 <h2>Contact</h2>
 <p>Phone: +49 821 50831032<br/>
     Fax: +49 821 50831033<br/>
-    E-Mail: <a id="mail" href="javascript:decodeMail('Y29udGFjdEBlbGVrdHJvbmlzY2guZGV2', false)">Click here!</a></p>
+    E-Mail: <a id="mail" href="javascript:decodeMail('bWFpbEBsaW51cy5iYXllcm4=', false)">Click here!</a></p>
 
 <h2>Disclaimer</h2>
 <b>Liability for content</b>
