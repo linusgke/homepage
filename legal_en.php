@@ -48,6 +48,14 @@
     event of the unsolicited sending of advertising information, such as spam e-mails.
 </p>
 
+<h2>Additional scopes</h2>
+
+<ul>
+    <li><a href="https://groschke.bayern">*.groschke.bayern</a></li>
+    <li><a href="https://demo.bayern">*.demo.bayern</a></li>
+    <li><a href="https://protest.bayern">*.protest.bayern</a></li>
+</ul>
+
 <h2>Image credits</h2>
 
 <ul>

@@ -46,6 +46,14 @@
     Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
     Werbeinformationen, etwa durch Spam-Mails, vor.</p>
 
+<h2>Weitere Geltungsbereiche</h2>
+
+<ul>
+    <li><a href="https://groschke.bayern">*.groschke.bayern</a></li>
+    <li><a href="https://demo.bayern">*.demo.bayern</a></li>
+    <li><a href="https://protest.bayern">*.protest.bayern</a></li>
+</ul>
+
 <h2>Bildnachweis</h2>
 
 <ul>
